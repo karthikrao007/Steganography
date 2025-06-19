@@ -56,7 +56,6 @@ To implement a steganography technique that securely hides text inside an image 
 
 ## 🔑Example
 
-python
 text = "Secret"
 key = "123"
 
