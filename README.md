@@ -54,16 +54,6 @@ To implement a steganography technique that securely hides text inside an image 
 > You can change the message and key directly in the script.
 
 
-## 📁 File Structure
-
-📦 steganography/
-├── steganography.py         # Main script
-├── input.png                # Input image
-├── output.png               # Output image with hidden message
-├── README.md                # This file
-└── requirements.txt         # List of Python libraries
-
-
 ## 🔑Example
 
 python
@@ -89,16 +79,6 @@ This project was built for a **college-level demonstration** on digital privacy,
 - Modify it
 - Learn from it
 - Extend it with features like dynamic message lengths, password protection, etc.
-
-
-## 🤝Contributions
- 
-   Pull requests are welcome! Feel free to fork the repository, improve the code, and submit changes.
-
-
-## 📜 License
-
-   This project is open-source and free to use under the [MIT License](LICENSE).
 
 
 ## 🙋‍♂️ Author
