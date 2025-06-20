@@ -1,4 +1,4 @@
-# 🕵️‍♂️Hiding Information Inside an Image Using LSB-Based Steganography
+# 🕵️‍♂️Steganography -Hiding Information in the Image
 
 **"The art and science of hiding information within another message"**
 
