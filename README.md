@@ -82,6 +82,6 @@ This project was built for a **college-level demonstration** on digital privacy,
 
 ## 🙋‍♂️ Author
 
-**Karthik Rao**  
+**KarthikRao Thakkallpelli**  
 Beginner Python & Cybersecurity Enthusiast  
 Made with ❤️ as part of a college project
